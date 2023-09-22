@@ -3,9 +3,6 @@
 ## 📌 Introduction
 We empower ambitious projects with the resources and focus they need to thrive.
 
-🌐 [Website](https://www.complexorganizations.com)  
-📧 [Contact Us](mailto:support@complexorganizations.com)
-
 ## 🚀 Projects
 
 ### 🛡️ Wireguard-Manager
