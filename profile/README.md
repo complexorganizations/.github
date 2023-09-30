@@ -9,16 +9,13 @@ To develop cutting-edge software solutions and contribute to the open-source com
 ## Projects 🚀
 
 ### Wireguard-Manager 🛡️ 
-Effortlessly set up your own VPN.  
-🌟 1.3k | 🍴 187
+Effortlessly set up your own VPN. 🌟 1.3k | 🍴 187
 
 ### Code-Snippets 💡
-Open-source code snippets.  
-🌟 4 | 🍴 3
+Open-source code snippets. 🌟 4 | 🍴 3
 
 ### Content-Blocker 🛑
-DNS-level content restriction.
-🌟 11 | 🍴 0
+DNS-level content restriction.🌟 11 | 🍴 0
 
 ... and more!
 
