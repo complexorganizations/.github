@@ -36,8 +36,7 @@ We are committed to fostering a welcoming and inclusive environment. Please read
 
 🌐 [Website](https://www.complexorganizations.com)  
 📧 [Email](mailto:support@complexorganizations.com)
-
-[Discord](https://discord.gg/Nbsk9VMpFS)
+📱 [Discord](https://discord.gg/Nbsk9VMpFS)
 
 ## License 📜
 
