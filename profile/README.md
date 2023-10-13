@@ -24,9 +24,10 @@ DNS-level content restriction.🌟 11 | 🍴 0
 
 ## Top Languages 🛠️
 
+- Terraform
+- Shell script
 - Go
-- Shell
-- HTML
+- Flutter
 
 ### Code of Conduct 📚
 
